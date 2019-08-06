@@ -3,5 +3,6 @@
 <img src="https://img.shields.io/badge/贵州智呱呱科技有限公司-red.svg?style=for-the-badge" width="400px" height="45px" alt="贵州智呱呱科技有限公司"/>|谭小勇（谭易|陈兴|贵阳市观山湖区德福中心A2栋9楼|拖欠工资|至2019/07/04还拖欠数十名员工3-4个月工资|★★★★★
 <img src="https://img.shields.io/badge/贵州智慧树技术有限公司-red.svg?style=for-the-badge" width="400px" height="45px" alt="贵州智慧树技术有限公司"/>|——|——|——|无故不让转正|低价招聘廉价搬运工，实习期三个月加班两个月，做了四个项目，转正期到即让走人|★★★★★
 <img src="https://img.shields.io/badge/贵州鼎慧大数据科技有限公司-red.svg?style=for-the-badge" width="400px" height="45px" alt="贵州鼎慧大数据科技有限公司"/>|覃富生|黄斌|贵阳观山湖区中天会展城B区B3组团7栋22楼1号|拖欠工资|拖欠工资！老板黄斌是师大的老师，很抠！压榨员工，三天改一个老项目|★★★★★
+<img src="https://img.shields.io/badge/贵州鑫垚智能技术有限公司-red.svg?style=for-the-badge" width="400px" height="45px" alt="贵州鑫垚智能技术有限公司"/>|——|——|研发部：贵阳市中山西路华亿大厦1409|拖欠工资|做的项目是找来的项目，改一下，拿去政府招标演示用！开发组目前没有收入，靠公司做硬件弱电安装养活公司，做弱电安装的收款，就和工程款一样，难得收！所以发工资没有准，前几天他们还在通宵达旦加班搞项目！上周四接到招标文件，项目就要求周一完成！|★★★★★
 
 
